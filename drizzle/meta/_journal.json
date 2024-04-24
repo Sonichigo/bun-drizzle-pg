@@ -1,0 +1,41 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1713949723117,
+      "tag": "0000_next_marvel_boy",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1713949786823,
+      "tag": "0001_yielding_korg",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1713950030811,
+      "tag": "0002_exotic_iron_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1713950049385,
+      "tag": "0003_military_stephen_strange",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1713951275421,
+      "tag": "0004_flippant_proteus",
+      "breakpoints": true
+    }
+  ]
+}
